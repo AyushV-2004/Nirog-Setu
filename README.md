@@ -36,16 +36,8 @@ NirogSetu is a multi-agent AI-powered healthcare platform designed to monitor, a
 ---
 
 ## Project Structure
+![image](https://github.com/user-attachments/assets/33073a73-ee54-4c09-b7a5-0a1928a1e599)
 
-NirogSetu/
-├── mobile-app/ # React Native app source code
-├── ml-models/ # Vision Transformer and LLM inference scripts
-│ ├── vit_models/ # ViT model code and image inference scripts
-│ ├── llm_models/ # LLM wrappers and RAG setup (planned)
-│ ├── data/ # Sample/test images and datasets
-│ └── requirements.txt
-├── README.md # Project documentation
-└── .gitignore
 
 
 
