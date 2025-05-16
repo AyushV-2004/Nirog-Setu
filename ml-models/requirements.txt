@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+opencv-python
+langchain
+sentence-transformers
+faiss-cpu
+openai
+scikit-learn
